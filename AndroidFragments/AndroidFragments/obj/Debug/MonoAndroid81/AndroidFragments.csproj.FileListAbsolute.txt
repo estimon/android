@@ -65,4 +65,5 @@ C:\Users\opilane\Documents\GitHub\android\AndroidFragments\AndroidFragments\obj\
 C:\Users\opilane\Documents\GitHub\android\AndroidFragments\AndroidFragments\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
 C:\Users\opilane\Documents\GitHub\android\AndroidFragments\AndroidFragments\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
 C:\Users\opilane\Documents\GitHub\android\AndroidFragments\AndroidFragments\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragments\AndroidFragments\obj\Debug\MonoAndroid81\AndroidFragments.csprojAssemblyReference.cache
 C:\Users\opilane\Documents\GitHub\android\AndroidFragments\AndroidFragments\obj\Debug\MonoAndroid81\linksrc\AndroidFragments.pdb
