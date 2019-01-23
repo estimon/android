@@ -35,8 +35,11 @@ namespace AndroidFragNotes
             {
                 var heading = addHeading.Text;
                 var content = addContent.Text;
-                Database.AddNewNote(heading);
-                Database.AddNewNote(content);
+                Database.AddNewNoteHeading(heading);
+                Database.AddNewNoteContenxt(content);
+
+                StartActivity(typeof(MainActivity));
+
             };
         }
     }

@@ -2384,11 +2384,11 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F0C001A
 			public const int bottom = 2131492890;
 			
-			// aapt resource value: 0x7F010005
-			public const int button1 = 2130771973;
+			// aapt resource value: 0x7F010006
+			public const int button1 = 2130771974;
 			
-			// aapt resource value: 0x7F010009
-			public const int buttonfromhell = 2130771977;
+			// aapt resource value: 0x7F010002
+			public const int buttonfromhell = 2130771970;
 			
 			// aapt resource value: 0x7F0C001B
 			public const int buttonPanel = 2131492891;
@@ -2501,11 +2501,11 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F0C000F
 			public const int line3 = 2131492879;
 			
-			// aapt resource value: 0x7F010003
-			public const int linearLayout1 = 2130771971;
+			// aapt resource value: 0x7F010004
+			public const int linearLayout1 = 2130771972;
 			
-			// aapt resource value: 0x7F010006
-			public const int linearLayout2 = 2130771974;
+			// aapt resource value: 0x7F010007
+			public const int linearLayout2 = 2130771975;
 			
 			// aapt resource value: 0x7F0C0040
 			public const int listMode = 2131492928;
@@ -2687,11 +2687,11 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F0C0018
 			public const int text2 = 2131492888;
 			
-			// aapt resource value: 0x7F010004
-			public const int textInputEditText1 = 2130771972;
+			// aapt resource value: 0x7F010005
+			public const int textInputEditText1 = 2130771973;
 			
-			// aapt resource value: 0x7F010007
-			public const int textInputEditText2 = 2130771975;
+			// aapt resource value: 0x7F010008
+			public const int textInputEditText2 = 2130771976;
 			
 			// aapt resource value: 0x7F0C007E
 			public const int textinput_counter = 2131492990;
@@ -2717,8 +2717,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F0C0082
 			public const int titleDividerNoCustom = 2131492994;
 			
-			// aapt resource value: 0x7F010002
-			public const int titles = 2130771970;
+			// aapt resource value: 0x7F010003
+			public const int titles = 2130771971;
 			
 			// aapt resource value: 0x7F0C0083
 			public const int title_template = 2131492995;
@@ -2747,8 +2747,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F0C008B
 			public const int transition_transform = 2131493003;
 			
-			// aapt resource value: 0x7F010008
-			public const int two_fragments_layout = 2130771976;
+			// aapt resource value: 0x7F010009
+			public const int two_fragments_layout = 2130771977;
 			
 			// aapt resource value: 0x7F0C008C
 			public const int uniform = 2131493004;

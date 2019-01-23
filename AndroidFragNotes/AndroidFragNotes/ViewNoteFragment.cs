@@ -33,13 +33,13 @@ namespace AndroidFragNotes
             {
                 return null;
             }
-            var add = new Notes();
+            var add = new NoteThings();
             var Textview = new TextView(Activity);
             var padding = Convert.ToInt32(TypedValue.ApplyDimension(ComplexUnitType.Dip, 4, Activity.Resources.DisplayMetrics));
             Textview.SetPadding(padding, padding, padding, padding);
             Textview.TextSize = 24;
 
-            Textview = add.
+            Textview.Text = add.notetext;
 
             var scroller = new ScrollView(Activity);
             scroller.AddView(Textview);

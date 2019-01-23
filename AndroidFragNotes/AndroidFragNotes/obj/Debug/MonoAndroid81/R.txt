@@ -769,7 +769,7 @@ int id blocking 0x7f080057
 int id bottom 0x7f08003d
 int id button1 0x7f08009f
 int id buttonPanel 0x7f080063
-int id buttonfromhell 0x7f08008d
+int id buttonfromhell 0x7f08008b
 int id cancel_action 0x7f0800a6
 int id center 0x7f080045
 int id center_horizontal 0x7f080046
@@ -899,7 +899,7 @@ int id time 0x7f0800ad
 int id title 0x7f08001c
 int id titleDividerNoCustom 0x7f080071
 int id title_template 0x7f08006f
-int id titles 0x7f08008b
+int id titles 0x7f08008c
 int id top 0x7f08003e
 int id topPanel 0x7f08006e
 int id touch_outside 0x7f080093
@@ -908,7 +908,7 @@ int id transition_layout_save 0x7f080010
 int id transition_position 0x7f080011
 int id transition_scene_layoutid_cache 0x7f080012
 int id transition_transform 0x7f080013
-int id two_fragments_layout 0x7f08008c
+int id two_fragments_layout 0x7f08008d
 int id uniform 0x7f08002d
 int id up 0x7f080009
 int id useLogo 0x7f080026

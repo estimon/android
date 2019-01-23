@@ -10,6 +10,7 @@ using Android.Runtime;
 using Android.Util;
 using Android.Views;
 using Android.Widget;
+using SQLite;
 
 namespace AndroidFragNotes
 {
@@ -18,6 +19,7 @@ namespace AndroidFragNotes
         bool showingTwoFragments;
          
         int selectViewId;
+        Notes note = new Notes();
 
         public TitlesFragment()
         {
@@ -26,8 +28,10 @@ namespace AndroidFragNotes
 
         public override void OnActivityCreated(Bundle savedInstanceState)
         {
+            var titles = note.GetAllNotes().ToList().Select(p => p.noteheading).ToArray();
+
             base.OnActivityCreated(savedInstanceState);
-            ListAdapter = new ArrayAdapter<string>(Activity, Android.Resource.Layout.SimpleListItemActivated1);
+            ListAdapter = new ArrayAdapter<string>(Activity, Android.Resource.Layout.SimpleListItemActivated1, titles);
 
             var notecontainer = Activity.FindViewById(Resource.Id.note_container);
             showingTwoFragments = notecontainer != null &&

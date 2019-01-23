@@ -2435,8 +2435,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7f080063
 			public const int buttonPanel = 2131230819;
 			
-			// aapt resource value: 0x7f08008d
-			public const int buttonfromhell = 2131230861;
+			// aapt resource value: 0x7f08008b
+			public const int buttonfromhell = 2131230859;
 			
 			// aapt resource value: 0x7f0800a6
 			public const int cancel_action = 2131230886;
@@ -2825,8 +2825,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7f08006f
 			public const int title_template = 2131230831;
 			
-			// aapt resource value: 0x7f08008b
-			public const int titles = 2131230859;
+			// aapt resource value: 0x7f08008c
+			public const int titles = 2131230860;
 			
 			// aapt resource value: 0x7f08003e
 			public const int top = 2131230782;
@@ -2852,8 +2852,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7f080013
 			public const int transition_transform = 2131230739;
 			
-			// aapt resource value: 0x7f08008c
-			public const int two_fragments_layout = 2131230860;
+			// aapt resource value: 0x7f08008d
+			public const int two_fragments_layout = 2131230861;
 			
 			// aapt resource value: 0x7f08002d
 			public const int uniform = 2131230765;

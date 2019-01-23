@@ -5,12 +5,19 @@
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+	<Button
+		android:text="Button"
+		android:layout_width="105.5dp"
+		android:layout_height="55.5dp"
+		android:id="@+id/buttonfromhell" />
 
 	 <fragment
         android:name="AndroidFragNotes.TitlesFragment"
         android:id="@+id/titles"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+
+	
 
 	
 

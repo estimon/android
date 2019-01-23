@@ -2983,7 +2983,7 @@ containing a value of this type.
         public static final int bottom=0x7f08003d;
         public static final int button1=0x7f08009f;
         public static final int buttonPanel=0x7f080063;
-        public static final int buttonfromhell=0x7f08008d;
+        public static final int buttonfromhell=0x7f08008b;
         public static final int cancel_action=0x7f0800a6;
         public static final int center=0x7f080045;
         public static final int center_horizontal=0x7f080046;
@@ -3113,7 +3113,7 @@ containing a value of this type.
         public static final int title=0x7f08001c;
         public static final int titleDividerNoCustom=0x7f080071;
         public static final int title_template=0x7f08006f;
-        public static final int titles=0x7f08008b;
+        public static final int titles=0x7f08008c;
         public static final int top=0x7f08003e;
         public static final int topPanel=0x7f08006e;
         public static final int touch_outside=0x7f080093;
@@ -3122,7 +3122,7 @@ containing a value of this type.
         public static final int transition_position=0x7f080011;
         public static final int transition_scene_layoutid_cache=0x7f080012;
         public static final int transition_transform=0x7f080013;
-        public static final int two_fragments_layout=0x7f08008c;
+        public static final int two_fragments_layout=0x7f08008d;
         public static final int uniform=0x7f08002d;
         public static final int up=0x7f080009;
         public static final int useLogo=0x7f080026;

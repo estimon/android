@@ -18,6 +18,8 @@ namespace AndroidFragNotes
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
         [MaxLength(100)]
+        public string noteheading { get; set; }
+        [MaxLength(100)]
         public string notetext { get; set; }
     }
 }

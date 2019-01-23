@@ -16,17 +16,28 @@ namespace AndroidFragNotes
 { 
     class Notes
     {
+        
         SQLiteConnection Db;
+
        
 
         public void CreateDataBase()
         {
             string dbpath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "Notes.db3");
             Db = new SQLiteConnection(dbpath);
+            Db.CreateTable<NoteThings>();
+        }
+        public void AddNewNoteHeading(string noteheading)
+        {
+            var newNoteHeading = new NoteThings();
+            newNoteHeading.noteheading = "pede";
+            Db.Insert(newNoteHeading);
+            
         }
 
-        public void AddNewNote(string note)
-        {
+
+        public void AddNewNoteContenxt(string note)
+        {   
             var newNote = new NoteThings();
             newNote.notetext = note;
             Db.Insert(newNote);
