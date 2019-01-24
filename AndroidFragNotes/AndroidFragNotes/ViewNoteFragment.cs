@@ -39,7 +39,7 @@ namespace AndroidFragNotes
             Textview.SetPadding(padding, padding, padding, padding);
             Textview.TextSize = 24;
 
-            Textview.Text = add.notetext;
+            //Textview.Text = add.notetext;
 
             var scroller = new ScrollView(Activity);
             scroller.AddView(Textview);

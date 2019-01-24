@@ -18,8 +18,8 @@ namespace AndroidFragNotes
             SetContentView(Resource.Layout.activity_main);
 
             var firstbtn = FindViewById<Button>(Resource.Id.buttonfromhell);
-
             firstbtn.Click += Button_Click;
+           
         }
 
 
@@ -28,5 +28,7 @@ namespace AndroidFragNotes
             var newact = new Intent(this, typeof(addtextactivity));
             StartActivity(newact);
         }
+
+       
     }
 }

@@ -23,23 +23,24 @@ namespace AndroidFragNotes
 
         public void CreateDataBase()
         {
-            string dbpath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "Notes.db3");
+            string dbpath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "Notes1.db3");
             Db = new SQLiteConnection(dbpath);
-            Db.CreateTable<NoteThings>();
         }
-        public void AddNewNoteHeading(string noteheading)
+
+
+        public void AddNewNoteHeading(string notecaption)
         {
             var newNoteHeading = new NoteThings();
-            newNoteHeading.noteheading = "pede";
+            newNoteHeading.Noteheading = notecaption;
             Db.Insert(newNoteHeading);
-            
+
+
         }
 
-
         public void AddNewNoteContenxt(string note)
-        {   
+        {
             var newNote = new NoteThings();
-            newNote.notetext = note;
+            newNote.Notetext = note;
             Db.Insert(newNote);
         }
 

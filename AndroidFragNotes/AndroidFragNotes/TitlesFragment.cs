@@ -28,10 +28,11 @@ namespace AndroidFragNotes
 
         public override void OnActivityCreated(Bundle savedInstanceState)
         {
-            var titles = note.GetAllNotes().ToList().Select(p => p.noteheading).ToArray();
+
+           var titles = note.GetAllNotes().ToList().Select(p => p.Noteheading).ToArray();
 
             base.OnActivityCreated(savedInstanceState);
-            ListAdapter = new ArrayAdapter<string>(Activity, Android.Resource.Layout.SimpleListItemActivated1, titles);
+            ListAdapter = new ArrayAdapter<string>(Activity, Android.Resource.Layout.SimpleListItemActivated1, titles); //titles to be added
 
             var notecontainer = Activity.FindViewById(Resource.Id.note_container);
             showingTwoFragments = notecontainer != null &&

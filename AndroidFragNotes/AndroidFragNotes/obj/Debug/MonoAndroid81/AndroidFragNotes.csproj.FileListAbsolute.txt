@@ -1,70 +1,70 @@
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.dll
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.AndroidFragNotes.apk
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.AndroidFragNotes-Signed.apk
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.csprojAssemblyReference.cache
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res.flag
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.csproj.CoreCompileInputs.cache
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.dll
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\bin\AndroidFragNotes.AndroidFragNotes.apk
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\layout\activity_main.xml
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\values\colors.xml
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\values\ic_launcher_background.xml
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\values\strings.xml
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\values\styles.xml
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\ic_launcher.xml
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\ic_launcher_round.xml
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher_foreground.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher_round.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher_foreground.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher_round.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher_foreground.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher_round.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher_foreground.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher_round.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher_round.png
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\layout-land\activity_main.xml
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\layout\edittext.xml
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\R.cs.flag
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\R.txt
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\uploadflags.txt
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\Mono.Android.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\Mono.Security.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\mscorlib.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.ComponentModel.Composition.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.Core.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.Net.Http.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.Runtime.Serialization.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.ServiceModel.Internals.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.Xml.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\AndroidFragNotes.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\AndroidFragNotes.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\mscorlib.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.Core.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\AndroidFragNotes.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.dll
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.AndroidFragNotes.apk
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.AndroidFragNotes-Signed.apk
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res.flag
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.dll
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\bin\AndroidFragNotes.AndroidFragNotes.apk
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\layout\activity_main.xml
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\values\colors.xml
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\values\ic_launcher_background.xml
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\values\strings.xml
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\values\styles.xml
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\layout-land\activity_main.xml
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\layout\edittext.xml
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\R.cs.flag
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\R.txt
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\uploadflags.txt
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\Mono.Android.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\Mono.Security.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\mscorlib.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.Core.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.Net.Http.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\System.Xml.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\AndroidFragNotes.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\AndroidFragNotes.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\mscorlib.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.Core.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.csprojAssemblyReference.cache
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\AndroidFragNotes.pdb
