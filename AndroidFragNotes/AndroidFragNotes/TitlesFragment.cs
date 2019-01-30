@@ -10,7 +10,6 @@ using Android.Runtime;
 using Android.Util;
 using Android.Views;
 using Android.Widget;
-using SQLite;
 
 namespace AndroidFragNotes
 {
@@ -28,11 +27,19 @@ namespace AndroidFragNotes
 
         public override void OnActivityCreated(Bundle savedInstanceState)
         {
-
-           var titles = note.GetAllNotes().ToList().Select(p => p.Noteheading).ToArray();
-
             base.OnActivityCreated(savedInstanceState);
-            ListAdapter = new ArrayAdapter<string>(Activity, Android.Resource.Layout.SimpleListItemActivated1, titles); //titles to be added
+  
+
+            var appi = note.GetAllNotes();
+
+            List<string> items = new List<string>();
+            foreach(var note in appi)
+            {
+                items.Add(note.Noteheading);
+            }
+
+
+            ListAdapter = new ArrayAdapter<string>(Activity, Android.Resource.Layout.SimpleListItemActivated1, note.GetAllNotes().ToList().Select(p => p.Noteheading).ToArray()); //titles to be added
 
             var notecontainer = Activity.FindViewById(Resource.Id.note_container);
             showingTwoFragments = notecontainer != null &&
@@ -60,12 +67,7 @@ namespace AndroidFragNotes
             ShowNotes(position);
         }
 
-        //void ShowNote(int ViewId)
-        //{
-        //    var intent = new Intent(Activity, typeof(ViewNoteActivity));
-        //    intent.PutExtra("current_note_id", ViewId);
-        //    StartActivity(intent);
-        //}
+       
 
         void ShowNotes(int ViewId)
         {

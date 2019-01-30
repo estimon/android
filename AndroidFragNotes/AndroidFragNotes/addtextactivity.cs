@@ -32,8 +32,6 @@ namespace AndroidFragNotes
         {
             var Database = new Notes();
             Database.CreateDataBase();
-            Database.CreateTable();
-
 
             var addHeading = FindViewById<EditText>(Resource.Id.textInputEditText1);
             var addContent = FindViewById<EditText>(Resource.Id.textInputEditText2);

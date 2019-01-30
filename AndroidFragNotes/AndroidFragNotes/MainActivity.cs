@@ -17,6 +17,10 @@ namespace AndroidFragNotes
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.activity_main);
 
+            Notes notes = new Notes();
+            notes.SampleData();
+            
+
             var firstbtn = FindViewById<Button>(Resource.Id.buttonfromhell);
             firstbtn.Click += Button_Click;
            

@@ -21,12 +21,30 @@ namespace AndroidFragNotes
 
        
 
-        public void CreateDataBase()
+        public Notes()
         {
-            string dbpath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "Notes1.db3");
+            string dbpath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "Notes1.db1");
             Db = new SQLiteConnection(dbpath);
         }
 
+
+        public void CreateDataBase()
+        {
+            Db.CreateTable<NoteThings>();
+        }
+
+
+        public void SampleData()
+        {
+            Db.CreateTable<NoteThings>();
+            if (Db.Table<NoteThings>().Count() == 0)
+            {
+                var samepls = new NoteThings();
+                samepls.Noteheading = "tere";
+                samepls.Notetext = "hüvasti";
+                Db.Insert(samepls);
+            }
+        }
 
         public void AddNewNoteHeading(string notecaption)
         {
@@ -44,10 +62,10 @@ namespace AndroidFragNotes
             Db.Insert(newNote);
         }
 
-        public void CreateTable()
-        {
-            Db.CreateTable<NoteThings>();
-        }
+        //public void CreateTable()
+        //{
+        //    Db.CreateTable<NoteThings>();
+        //}
 
         public TableQuery<NoteThings> GetAllNotes()
         {

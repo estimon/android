@@ -1,9 +1,10 @@
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.csprojAssemblyReference.cache
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res.flag
+C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.csproj.CoreCompileInputs.cache
 C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.dll
 C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.pdb
 C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.AndroidFragNotes.apk
 C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.AndroidFragNotes-Signed.apk
-C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res.flag
-C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.csproj.CoreCompileInputs.cache
 C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.dll
 C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.pdb
 C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\bin\AndroidFragNotes.AndroidFragNotes.apk
@@ -66,5 +67,4 @@ C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\
 C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
 C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
 C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
-C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.csprojAssemblyReference.cache
 C:\Users\opilane\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\AndroidFragNotes.pdb
