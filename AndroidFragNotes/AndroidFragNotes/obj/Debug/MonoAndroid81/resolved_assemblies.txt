@@ -1,5 +1,13 @@
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\AndroidFragNotes.dll
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Java.Interop.dll
+C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Analytics.dll
+C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Android.Bindings.dll
+C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Crashes.Android.Bindings.dll
+C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Crashes.dll
+C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Distribute.Android.Bindings.dll
+C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.Distribute.dll
+C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Microsoft.AppCenter.dll
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Mono.Android.dll
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\mscorlib.dll
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\SQLite-net.dll

@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 	<Button
-		android:text="Button"
+		android:text="Add note"
 		android:layout_width="105.5dp"
 		android:layout_height="55.5dp"
 		android:id="@+id/buttonfromhell" />

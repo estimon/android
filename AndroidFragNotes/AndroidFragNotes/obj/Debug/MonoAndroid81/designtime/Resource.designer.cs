@@ -26,6 +26,25 @@ namespace AndroidFragNotes
 		
 		public static void UpdateIdValues()
 		{
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_dialog_actioned_on_disabled_toast = global::AndroidFragNotes.Resource.String.appcenter_distribute_dialog_actioned_on_disabled_toast;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_download_progress_number_format = global::AndroidFragNotes.Resource.String.appcenter_distribute_download_progress_number_format;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_downloading_mandatory_update = global::AndroidFragNotes.Resource.String.appcenter_distribute_downloading_mandatory_update;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_install = global::AndroidFragNotes.Resource.String.appcenter_distribute_install;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_install_ready_message = global::AndroidFragNotes.Resource.String.appcenter_distribute_install_ready_message;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_install_ready_title = global::AndroidFragNotes.Resource.String.appcenter_distribute_install_ready_title;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_notification_category = global::AndroidFragNotes.Resource.String.appcenter_distribute_notification_category;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_unknown_sources_dialog_message = global::AndroidFragNotes.Resource.String.appcenter_distribute_unknown_sources_dialog_message;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_unknown_sources_dialog_settings = global::AndroidFragNotes.Resource.String.appcenter_distribute_unknown_sources_dialog_settings;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_dialog_download = global::AndroidFragNotes.Resource.String.appcenter_distribute_update_dialog_download;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_dialog_message_mandatory = global::AndroidFragNotes.Resource.String.appcenter_distribute_update_dialog_message_mandatory;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_dialog_message_optional = global::AndroidFragNotes.Resource.String.appcenter_distribute_update_dialog_message_optional;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_dialog_postpone = global::AndroidFragNotes.Resource.String.appcenter_distribute_update_dialog_postpone;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_dialog_title = global::AndroidFragNotes.Resource.String.appcenter_distribute_update_dialog_title;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_dialog_view_release_notes = global::AndroidFragNotes.Resource.String.appcenter_distribute_update_dialog_view_release_notes;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_failed_dialog_ignore = global::AndroidFragNotes.Resource.String.appcenter_distribute_update_failed_dialog_ignore;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_failed_dialog_message = global::AndroidFragNotes.Resource.String.appcenter_distribute_update_failed_dialog_message;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_failed_dialog_reinstall = global::AndroidFragNotes.Resource.String.appcenter_distribute_update_failed_dialog_reinstall;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_failed_dialog_title = global::AndroidFragNotes.Resource.String.appcenter_distribute_update_failed_dialog_title;
 		}
 		
 		public partial class Animation
@@ -2393,8 +2412,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F0C001A
 			public const int bottom = 2131492890;
 			
-			// aapt resource value: 0x7F020006
-			public const int button1 = 2130837510;
+			// aapt resource value: 0x7F020008
+			public const int button1 = 2130837512;
 			
 			// aapt resource value: 0x7F020002
 			public const int buttonfromhell = 2130837506;
@@ -2519,8 +2538,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F020004
 			public const int linearLayout1 = 2130837508;
 			
-			// aapt resource value: 0x7F020007
-			public const int linearLayout2 = 2130837511;
+			// aapt resource value: 0x7F020006
+			public const int linearLayout2 = 2130837510;
 			
 			// aapt resource value: 0x7F0C0040
 			public const int listMode = 2131492928;
@@ -2705,8 +2724,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F020005
 			public const int textInputEditText1 = 2130837509;
 			
-			// aapt resource value: 0x7F020008
-			public const int textInputEditText2 = 2130837512;
+			// aapt resource value: 0x7F020007
+			public const int textInputEditText2 = 2130837511;
 			
 			// aapt resource value: 0x7F0C007E
 			public const int textinput_counter = 2131492990;
@@ -3152,6 +3171,63 @@ namespace AndroidFragNotes
 			
 			// aapt resource value: 0x7F15001E
 			public const int appbar_scrolling_view_behavior = 2132082718;
+			
+			// aapt resource value: 0x7F150001
+			public const int appcenter_distribute_dialog_actioned_on_disabled_toast = 2132082689;
+			
+			// aapt resource value: 0x7F150003
+			public const int appcenter_distribute_downloading_mandatory_update = 2132082691;
+			
+			// aapt resource value: 0x7F150002
+			public const int appcenter_distribute_download_progress_number_format = 2132082690;
+			
+			// aapt resource value: 0x7F150004
+			public const int appcenter_distribute_install = 2132082692;
+			
+			// aapt resource value: 0x7F150005
+			public const int appcenter_distribute_install_ready_message = 2132082693;
+			
+			// aapt resource value: 0x7F150006
+			public const int appcenter_distribute_install_ready_title = 2132082694;
+			
+			// aapt resource value: 0x7F150007
+			public const int appcenter_distribute_notification_category = 2132082695;
+			
+			// aapt resource value: 0x7F150008
+			public const int appcenter_distribute_unknown_sources_dialog_message = 2132082696;
+			
+			// aapt resource value: 0x7F150009
+			public const int appcenter_distribute_unknown_sources_dialog_settings = 2132082697;
+			
+			// aapt resource value: 0x7F15000A
+			public const int appcenter_distribute_update_dialog_download = 2132082698;
+			
+			// aapt resource value: 0x7F15000B
+			public const int appcenter_distribute_update_dialog_message_mandatory = 2132082699;
+			
+			// aapt resource value: 0x7F15000C
+			public const int appcenter_distribute_update_dialog_message_optional = 2132082700;
+			
+			// aapt resource value: 0x7F15000D
+			public const int appcenter_distribute_update_dialog_postpone = 2132082701;
+			
+			// aapt resource value: 0x7F15000E
+			public const int appcenter_distribute_update_dialog_title = 2132082702;
+			
+			// aapt resource value: 0x7F15000F
+			public const int appcenter_distribute_update_dialog_view_release_notes = 2132082703;
+			
+			// aapt resource value: 0x7F150010
+			public const int appcenter_distribute_update_failed_dialog_ignore = 2132082704;
+			
+			// aapt resource value: 0x7F150011
+			public const int appcenter_distribute_update_failed_dialog_message = 2132082705;
+			
+			// aapt resource value: 0x7F150012
+			public const int appcenter_distribute_update_failed_dialog_reinstall = 2132082706;
+			
+			// aapt resource value: 0x7F150013
+			public const int appcenter_distribute_update_failed_dialog_title = 2132082707;
 			
 			// aapt resource value: 0x7F060002
 			public const int app_name = 2131099650;

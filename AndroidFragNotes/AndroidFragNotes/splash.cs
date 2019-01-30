@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace AndroidFragNotes
 {
-    [Activity(Theme = "@style/MyTheme.Splash", MainLauncher = true, NoHistory = true)]
+    [Activity(Theme = "@style/MyTheme.Splash", MainLauncher = true, NoHistory = true, Icon = "@drawable/splash")]
     public class splash : AppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)

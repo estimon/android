@@ -40,8 +40,11 @@ namespace AndroidFragNotes
             if (Db.Table<NoteThings>().Count() == 0)
             {
                 var samepls = new NoteThings();
-                samepls.Noteheading = "tere";
-                samepls.Notetext = "hüvasti";
+                samepls.Noteheading = "Hello";
+                samepls.Notetext = "This is a simple note taking app. You can add notes " +
+                    "by pressing on the ADD NOTES button. To edit the content of your note simply press" +
+                    "on your note and overwrite the text and then press the EDIT button." +
+                    "To Delete the Note just press on the note that you want to delete and press on the DELETE button (you cannot delete this note)";
                 Db.Insert(samepls);
             }
         }

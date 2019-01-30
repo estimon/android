@@ -33,7 +33,7 @@
 		android:id="@+id/linearLayout1">
 		<android.support.design.widget.TextInputEditText
 			android:layout_width="match_parent"
-			android:layout_height="62.0dp"
+			android:layout_height="388.5dp"
 			android:id="@+id/edittext" />
 	</LinearLayout>
 	
