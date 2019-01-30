@@ -2,7 +2,6 @@ C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNo
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.pdb
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.AndroidFragNotes.apk
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\bin\Debug\AndroidFragNotes.AndroidFragNotes-Signed.apk
-C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.csprojAssemblyReference.cache
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res.flag
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.csproj.CoreCompileInputs.cache
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.dll
@@ -33,6 +32,8 @@ C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNo
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\layout-land\activity_main.xml
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\layout\edittext.xml
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\layout\otheredit.xml
+C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\drawable\splash_screen.xml
+C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\res\drawable\splash.png
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\R.cs.flag
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\R.txt
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\uploadflags.txt
@@ -57,6 +58,7 @@ C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNo
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
+C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\AndroidFragNotes.csprojAssemblyReference.cache
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\AndroidFragNotes.pdb
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
 C:\Users\Martin Ploompuu\Documents\GitHub\android\AndroidFragNotes\AndroidFragNotes\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
