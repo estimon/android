@@ -2507,6 +2507,12 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7f08007e
 			public const int edit_query = 2131230846;
 			
+			// aapt resource value: 0x7f0800b5
+			public const int editbtn = 2131230901;
+			
+			// aapt resource value: 0x7f0800b6
+			public const int edittext = 2131230902;
+			
 			// aapt resource value: 0x7f080030
 			public const int end = 2131230768;
 			
@@ -2597,14 +2603,14 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7f080061
 			public const int list_item = 2131230817;
 			
-			// aapt resource value: 0x7f0800b7
-			public const int masked = 2131230903;
+			// aapt resource value: 0x7f0800b9
+			public const int masked = 2131230905;
 			
 			// aapt resource value: 0x7f0800a8
 			public const int media_actions = 2131230888;
 			
-			// aapt resource value: 0x7f0800b5
-			public const int message = 2131230901;
+			// aapt resource value: 0x7f0800b7
+			public const int message = 2131230903;
 			
 			// aapt resource value: 0x7f080031
 			public const int middle = 2131230769;
@@ -2867,8 +2873,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800b6
-			public const int visible = 2131230902;
+			// aapt resource value: 0x7f0800b8
+			public const int visible = 2131230904;
 			
 			// aapt resource value: 0x7f08003c
 			public const int withText = 2131230780;
@@ -3104,19 +3110,22 @@ namespace AndroidFragNotes
 			public const int notification_template_part_time = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int select_dialog_item_material = 2130968633;
+			public const int otheredit = 2130968633;
 			
 			// aapt resource value: 0x7f04003a
-			public const int select_dialog_multichoice_material = 2130968634;
+			public const int select_dialog_item_material = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int select_dialog_singlechoice_material = 2130968635;
+			public const int select_dialog_multichoice_material = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int support_simple_spinner_dropdown_item = 2130968636;
+			public const int select_dialog_singlechoice_material = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int tooltip = 2130968637;
+			public const int support_simple_spinner_dropdown_item = 2130968637;
+			
+			// aapt resource value: 0x7f04003e
+			public const int tooltip = 2130968638;
 			
 			static Layout()
 			{

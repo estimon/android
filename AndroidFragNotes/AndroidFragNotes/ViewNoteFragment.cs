@@ -41,25 +41,28 @@ namespace AndroidFragNotes
             {
                 return null;
             }
+            var view = inflater.Inflate(Resource.Layout.otheredit, null);
 
-          //  var pls = note.GetAllNotes();
-//StatViewId = ViewId;
-
-           // List<string> palun = note.GetAllNotes().ToList().Select(p => p.Notetext).ToList();
-
+            var btn = view.FindViewById<Button>(Resource.Id.button1);
+            var change = view.FindViewById<EditText>(Resource.Id.edittext);
+            var editbtn = view.FindViewById<Button>(Resource.Id.editbtn);
             var add = new NoteThings();
-            var Textview = new TextView(Activity);
-           // var padding = Convert.ToInt32(TypedValue.ApplyDimension(ComplexUnitType.Dip, 4, Activity.Resources.DisplayMetrics));
-           // Textview.SetPadding(padding, padding, padding, padding);
-              Textview.TextSize = 24;
 
-            Textview.Text = note.GetAllNotes().ElementAt(ViewId).Notetext;
+            var intent = new Intent(Activity, typeof(MainActivity));
 
-            var scroller = new ScrollView(Activity);
-            scroller.AddView(Textview);
+            editbtn.Click += delegate
+            {
+                note.edit(ViewId + 1, change.Text);
+                StartActivity(intent);
+            };
 
+            btn.Click += delegate { note.DeleteNote(note.GetAllNotes().ToList()[ViewId].Id); StartActivity(intent); };
 
-            return scroller;
+            var NoteList = note.GetAllNotes().ToList();
+            change.Text = NoteList.ElementAt(ViewId).Notetext;
+            return view;
         }
+       
     }
+
 }

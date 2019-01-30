@@ -2441,6 +2441,12 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F0C002B
 			public const int design_navigation_view = 2131492907;
 			
+			// aapt resource value: 0x7F010009
+			public const int editbtn = 2130771977;
+			
+			// aapt resource value: 0x7F010010
+			public const int edittext = 2130771984;
+			
 			// aapt resource value: 0x7F0C002C
 			public const int edit_query = 2131492908;
 			
@@ -2537,8 +2543,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F0C0010
 			public const int normal = 2131492880;
 			
-			// aapt resource value: 0x7F010010
-			public const int note_container = 2130771984;
+			// aapt resource value: 0x7F010012
+			public const int note_container = 2130771986;
 			
 			// aapt resource value: 0x7F0C0011
 			public const int notification_background = 2131492881;
@@ -2747,8 +2753,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F0C008B
 			public const int transition_transform = 2131493003;
 			
-			// aapt resource value: 0x7F010009
-			public const int two_fragments_layout = 2130771977;
+			// aapt resource value: 0x7F010011
+			public const int two_fragments_layout = 2130771985;
 			
 			// aapt resource value: 0x7F0C008C
 			public const int uniform = 2131493004;
@@ -2991,6 +2997,9 @@ namespace AndroidFragNotes
 			
 			// aapt resource value: 0x7F0F0006
 			public const int notification_template_part_time = 2131689478;
+			
+			// aapt resource value: 0x7F020004
+			public const int otheredit = 2130837508;
 			
 			// aapt resource value: 0x7F0F0038
 			public const int select_dialog_item_material = 2131689528;

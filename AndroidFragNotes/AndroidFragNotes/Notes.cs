@@ -58,12 +58,14 @@ namespace AndroidFragNotes
 
         }
 
-       
 
-        //public void CreateTable()
-        //{
-        //    Db.CreateTable<NoteThings>();
-        //}
+        public void DeleteNote(int id)
+        {
+            NoteThings noteToDelete = new NoteThings();
+            noteToDelete.Id = id;
+            Db.Delete(noteToDelete);
+        }
+      
 
         public TableQuery<NoteThings> GetAllNotes()
         {
@@ -71,6 +73,21 @@ namespace AndroidFragNotes
             return table;
         }
         
+
+        public void edit(int id, string content)
+        {
+            var getnotes = GetAllNotes();
+            var query = from ord in getnotes
+                        where ord.Id == id
+                        select ord;
+            foreach (NoteThings note in query)
+            {
+                note.Id = id;
+               // note.Noteheading = title;
+                note.Notetext = content;
+                Db.Update(note);
+            }
+        }
 
     }
 }
