@@ -5,6 +5,8 @@ using Android.Runtime;
 using Android.Widget;
 using System;
 using Android.Content;
+using System.IO;
+using System.Collections.Generic;
 
 namespace AndroidFragNotes
 {
@@ -18,6 +20,8 @@ namespace AndroidFragNotes
             SetContentView(Resource.Layout.activity_main);
 
             Notes notes = new Notes();
+
+           
             notes.SampleData();
             
 

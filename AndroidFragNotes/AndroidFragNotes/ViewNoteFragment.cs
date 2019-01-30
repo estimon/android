@@ -15,8 +15,8 @@ namespace AndroidFragNotes
 {
     public class ViewNoteFragment : Fragment 
     {
-        public static int StatPlayId { get; set; }
 
+       // public static int StatViewId { get; set; }
         public int ViewId => Arguments.GetInt("current_note_id", 0);
 
         Notes note;
@@ -42,17 +42,16 @@ namespace AndroidFragNotes
                 return null;
             }
 
-            note.GetAllNotes();
+          //  var pls = note.GetAllNotes();
+//StatViewId = ViewId;
 
-            StatPlayId = ViewId;
-
-            List<string> notesList = DatabaseServices.NotesList.Select(x => x.Description).ToList();
+           // List<string> palun = note.GetAllNotes().ToList().Select(p => p.Notetext).ToList();
 
             var add = new NoteThings();
             var Textview = new TextView(Activity);
-            var padding = Convert.ToInt32(TypedValue.ApplyDimension(ComplexUnitType.Dip, 4, Activity.Resources.DisplayMetrics));
-            Textview.SetPadding(padding, padding, padding, padding);
-            Textview.TextSize = 24;
+           // var padding = Convert.ToInt32(TypedValue.ApplyDimension(ComplexUnitType.Dip, 4, Activity.Resources.DisplayMetrics));
+           // Textview.SetPadding(padding, padding, padding, padding);
+              Textview.TextSize = 24;
 
             Textview.Text = note.GetAllNotes().ElementAt(ViewId).Notetext;
 

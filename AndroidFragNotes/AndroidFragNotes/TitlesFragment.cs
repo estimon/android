@@ -39,7 +39,8 @@ namespace AndroidFragNotes
             }
 
 
-            ListAdapter = new ArrayAdapter<string>(Activity, Android.Resource.Layout.SimpleListItemActivated1, note.GetAllNotes().ToList().Select(p => p.Noteheading).ToArray()); //titles to be added
+            ListAdapter = new ArrayAdapter<string>(Activity, Android.Resource.Layout.SimpleListItemActivated1, note.GetAllNotes().ToList().
+                Select(p => p.Noteheading).ToArray());
 
             var notecontainer = Activity.FindViewById(Resource.Id.note_container);
             showingTwoFragments = notecontainer != null &&

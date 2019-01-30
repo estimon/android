@@ -46,21 +46,19 @@ namespace AndroidFragNotes
             }
         }
 
-        public void AddNewNoteHeading(string notecaption)
+        public void Addnote(string notecaption, string notetext)
         {
-            var newNoteHeading = new NoteThings();
-            newNoteHeading.Noteheading = notecaption;
-            Db.Insert(newNoteHeading);
+            var newnote = new NoteThings
+            {
+                Noteheading = notecaption,
+                Notetext = notetext
+            };
 
+            Db.Insert(newnote);
 
         }
 
-        public void AddNewNoteContenxt(string note)
-        {
-            var newNote = new NoteThings();
-            newNote.Notetext = note;
-            Db.Insert(newNote);
-        }
+       
 
         //public void CreateTable()
         //{

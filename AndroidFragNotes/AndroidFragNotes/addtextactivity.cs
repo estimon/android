@@ -16,10 +16,12 @@ namespace AndroidFragNotes
     public class addtextactivity : Activity
     {
        
+        Notes note = new Notes();
         protected override void OnCreate(Bundle savedInstanceState)
         {
             SetContentView(Resource.Layout.edittext);
             base.OnCreate(savedInstanceState);
+            note.CreateDataBase();
 
             var addbtn = FindViewById<Button>(Resource.Id.button1);
             addbtn.Click += Button_Click;
@@ -30,18 +32,19 @@ namespace AndroidFragNotes
 
         void Button_Click(object sender, EventArgs e)
         {
-            var Database = new Notes();
-            Database.CreateDataBase();
 
-            var addHeading = FindViewById<EditText>(Resource.Id.textInputEditText1);
-            var addContent = FindViewById<EditText>(Resource.Id.textInputEditText2);
-            var table = Database.GetAllNotes();
+            NoteThings fck = new NoteThings();
 
-            var heading = addHeading.Text;
-            var content = addContent.Text;
-            Database.AddNewNoteHeading(heading);
-            Database.AddNewNoteContenxt(content);
+            var fuck = FindViewById<EditText>(Resource.Id.textInputEditText1);
+            var palun = FindViewById<EditText>(Resource.Id.textInputEditText2);
 
+            fck.Noteheading = fuck.Text;
+            fck.Notetext = palun.Text;
+            
+            note.Addnote(fck.Noteheading, fck.Notetext);
+            
+
+            
             StartActivity(typeof(MainActivity));
         }
     }

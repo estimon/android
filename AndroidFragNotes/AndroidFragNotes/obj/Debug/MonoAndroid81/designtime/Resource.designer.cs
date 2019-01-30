@@ -2387,12 +2387,6 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F010006
 			public const int button1 = 2130771974;
 			
-			// aapt resource value: 0x7F010009
-			public const int button2 = 2130771977;
-			
-			// aapt resource value: 0x7F010010
-			public const int button3 = 2130771984;
-			
 			// aapt resource value: 0x7F010002
 			public const int buttonfromhell = 2130771970;
 			
@@ -2543,8 +2537,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F0C0010
 			public const int normal = 2131492880;
 			
-			// aapt resource value: 0x7F010012
-			public const int note_container = 2130771986;
+			// aapt resource value: 0x7F010010
+			public const int note_container = 2130771984;
 			
 			// aapt resource value: 0x7F0C0011
 			public const int notification_background = 2131492881;
@@ -2753,8 +2747,8 @@ namespace AndroidFragNotes
 			// aapt resource value: 0x7F0C008B
 			public const int transition_transform = 2131493003;
 			
-			// aapt resource value: 0x7F010011
-			public const int two_fragments_layout = 2130771985;
+			// aapt resource value: 0x7F010009
+			public const int two_fragments_layout = 2130771977;
 			
 			// aapt resource value: 0x7F0C008C
 			public const int uniform = 2131493004;
